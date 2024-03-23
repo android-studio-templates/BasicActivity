@@ -1,0 +1,3 @@
+# BasicActivity
+
+### Android Studio Template
